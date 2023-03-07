@@ -1,10 +1,9 @@
 <div align="center"> 
-  <img width="600" src="https://cutewallpaper.org/27/cartoon-cloud-wallpaper-gif/best-cloud-background-gifs-gfycat.gif"/>
-</div><br />
-
-<div align="center"> 
   <img width="400" src="https://i.pinimg.com/564x/f6/12/59/f612594566e8455aca1a4f74d861462c.jpg"/>
 </div><br />
+
+var title = new MovingTitle("Desired title... ", 300, 10);
+title.init();
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=2C3333&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Vaness+Jhonathan👋;Information+Systems+Student;">
